@@ -1,0 +1,60 @@
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Server.exe.config
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Server.exe
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Server.pdb
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.Video.DirectShow.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.Video.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Zen.Barcode.Core.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\zxing.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\zxing.presentation.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.xml
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.Video.xml
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.Video.DirectShow.xml
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\zxing.xml
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\zxing.presentation.xml
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.Properties.Resources.resources
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.CustomTextBox.resources
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.SignInUp.resources
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.GenerateResource.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.CoreCompileInputs.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.CopyComplete
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.exe
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.pdb
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.AssemblyReference.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.Client_Panel.resources
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Interop.WMPLib.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\AxInterop.WMPLib.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.ResolveComReference.cache
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Interop.WMPLib.dll
+A:\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AxInterop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Server.exe.config
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Server.exe
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Server.pdb
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.Video.DirectShow.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.Video.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Zen.Barcode.Core.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\zxing.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\zxing.presentation.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.xml
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.Video.xml
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AForge.Video.DirectShow.xml
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\zxing.xml
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\zxing.presentation.xml
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\Interop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\bin\Debug\AxInterop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.AssemblyReference.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Interop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\AxInterop.WMPLib.dll
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.ResolveComReference.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.Client_Panel.resources
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.Properties.Resources.resources
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.CustomTextBox.resources
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.SignInUp.resources
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.GenerateResource.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.CoreCompileInputs.cache
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Client.csproj.CopyComplete
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.exe
+B:\UNIVERSITY\SEMESTER # 3\DATA STRUCTURE\LAB\PROJECT\Final Project\Client\Server\obj\Debug\Server.pdb
